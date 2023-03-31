@@ -123,6 +123,18 @@ const Missions = [
     country: 'Estados Unidos, União Europeia e Canadá',
     destination: INTERESTELAR,
   },
+  {
+    name: 'A explorar',
+    year: '20XX',
+    country: ' ',
+    destination: 'Urano',
+  },
+  {
+    name: 'A explorar',
+    year: '20XX',
+    country: ' ',
+    destination: 'Netuno',
+  },
 ];
 
 export default Missions;

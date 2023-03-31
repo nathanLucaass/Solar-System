@@ -3,6 +3,10 @@
 
 .App {
   text-align: center;
+  user-select: none;
+}
+body{
+  user-select: none;
 }
 header{
   margin-top: 70px;
@@ -59,7 +63,7 @@ align-items: center;
 #planetName{
   font-size: 50px;
   font-weight: lighter;
-  
+  font-family: 'Roboto', sans-serif;
 }
 
 
