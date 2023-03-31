@@ -30,6 +30,9 @@ h1 {
   transform: rotate(335deg);
 }
 
+h3{
+  font-weight: lighter;
+}
 
 body{
   background-image: url('../src/images/background.png');
