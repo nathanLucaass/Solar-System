@@ -59,7 +59,7 @@ align-items: center;
 #planetName{
   font-size: 50px;
   font-weight: lighter;
-  font-family: 'Roboto', sans-serif;
+  
 }
 
 
@@ -108,7 +108,7 @@ align-items: center;
 
 #sistema {
   display: flex;
-  justify-content: s;
+  margin-top: 140px;
 }
 
 
